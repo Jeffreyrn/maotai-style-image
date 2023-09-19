@@ -87,3 +87,7 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+@font-face {
+  font-family: "xingkai";
+  src:url("/xingkai.ttf");
+}
